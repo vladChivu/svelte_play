@@ -1,0 +1,5 @@
+svelte_Intro/node_modules/
+svelte_Intro/public/build/
+svelte_Table/node_modules/
+svelte_Table/public/build/
+.DS_Store
